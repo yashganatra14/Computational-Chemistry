@@ -1,0 +1,15 @@
+center_x = -0.201
+center_y = 10.114
+center_z = 17.033
+
+size_x = 60
+size_y = 60
+size_z = 60
+
+Number of GA Runs = 50
+
+Population Size = 300
+
+Search Parameter = Genetic Algorithm
+
+Output = Lamarckian Genetic Algorithm
