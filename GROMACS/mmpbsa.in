@@ -5,8 +5,9 @@ Sample input file for GB calculation
 
 &general
 sys_name="Prot-Lig-MT",
-startframe=5,
-endframe=14,
+startframe=1,
+endframe=1001,
+interval=50,
 forcefields="oldff/leaprc.ff99SB",leaprc.gaff"
 /
 &gb
