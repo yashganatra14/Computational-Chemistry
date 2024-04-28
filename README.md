@@ -2,7 +2,7 @@ Folder Name: AutoDock4
    Contains parameters used for Docking on MGL Tools for AutoDock4.
 
 Folder Name: GROMACS
-   Contains .mdp files for minimization, equilibration and production step.
+   Contains .mdp files for minimization, equilibration and production step. Also contains input and output files for gmx_MMPBSA.
 
 Folder Name: Glide Data
    Contains .csv files with data obtained from Glide.
