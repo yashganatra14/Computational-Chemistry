@@ -8,7 +8,7 @@ Folder Name: Glide Data
    Contains .csv files with data obtained from Glide.
 
 Folder Name: Molecular structures
-   Contains .pdbqt file for Compounds 1-14, Reference Compound, Protein, Flexible protein residues used for AutoDock Vina. 
+   Contains .pdbqt file for Compounds 1-14, Reference Compound, Protein, Flexible protein residues used for AutoDock Vina. Also contains .cdxml files for molecular structures. 
 
 Folder Name: Vina
    Contains log files obtained from AutoDock Vina.
